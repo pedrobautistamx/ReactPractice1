@@ -1,0 +1,91 @@
+[2018-04-25T15:57:25.616] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T16:09:41.959] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T16:09:41.960] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T16:26:31.807] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T16:26:34.911] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T16:26:34.911] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:02:52.188] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:02:52.188] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:02:54.167] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:02:54.168] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:18:08.576] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:18:12.102] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:18:12.103] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:19:09.873] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:19:12.834] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:19:12.834] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:19:57.196] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:20:00.288] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:20:00.288] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:20:02.782] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:20:02.783] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:20:46.708] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:20:49.609] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:20:49.609] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:23:46.301] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:23:49.410] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:23:49.410] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:25:11.359] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:25:14.826] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:25:14.826] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:27:39.226] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:27:42.494] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:27:42.494] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:28:34.395] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:28:37.562] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:28:37.563] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:29:55.235] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:30:00.058] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:30:00.058] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:30:55.824] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:30:58.879] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:30:58.880] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:33:43.948] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:33:47.790] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:33:47.790] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:34:51.329] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:34:53.966] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:34:53.966] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:36:22.321] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:36:25.000] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:36:25.001] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:37:52.254] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:37:52.255] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:40:28.007] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:40:31.232] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:40:31.233] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:41:22.418] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:41:25.706] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:41:25.706] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:46:53.139] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:46:56.349] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:46:56.349] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:49:54.969] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:53:01.182] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:53:01.183] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:56:13.062] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:56:16.474] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:56:20.000] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:56:20.001] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T17:58:12.826] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T17:58:16.070] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T17:58:16.071] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T18:01:06.383] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T18:01:08.942] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T18:01:08.943] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T18:05:23.633] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T18:05:27.180] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T18:05:27.180] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T18:09:38.382] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T18:09:41.809] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T18:09:41.810] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T18:10:36.244] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T18:10:38.726] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T18:10:38.726] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T18:11:27.656] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T18:11:32.486] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T18:11:32.486] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T18:20:05.124] [INFO ] - [default           ] Node server running on http://localhost:6001
+[2018-04-25T18:20:05.484] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient.BODY: {"campaniaId":10,"token":"undefined","idUser":"undefined"}
+[2018-04-25T18:20:05.484] [INFO ] - [Routes.Service    ] [User: CursoReact] getDataClient: Exitoso
+[2018-04-25T18:23:03.496] [INFO ] - [default           ] Node server running on http://localhost:6001

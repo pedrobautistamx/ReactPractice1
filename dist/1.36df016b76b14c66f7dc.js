@@ -1,0 +1,2 @@
+webpackJsonp([1],{311:function(m,t){throw new Error("Module build failed: SyntaxError: Unexpected token (35:3)\n\n[0m [90m 33 | [39m\n [90m 34 | [39m\tcomponentWillMount() {\n[31m[1m>[22m[39m[90m 35 | [39m\t\t[33m<[39m[33m![39m[33m--[39m[90m/*this.props.clearDataClient()[39m\n [90m    | [39m\t\t [31m[1m^[22m[39m\n [90m 36 | [39m[90m\t\tthis.props.getDataClient({campaniaId: 10}).then( response => {[39m\n [90m 37 | [39m\n [90m 38 | [39m[90m\t\t\tlet data = response.Cliente[39m[0m\n")}});
+//# sourceMappingURL=1.36df016b76b14c66f7dc.js.map
